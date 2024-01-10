@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Barreto</h1>
 <h3 align="center">A passionate backend (Trying to be Full-Stack) developer from Uruguay!</h3>
 
-- 🔭 I’m currently working on [Tour Page](https://github.com/No-Country/Cohorte-1-G10)
+- 🔭 I’m currently working on [Te Anoto]([https://github.com/No-Country/Cohorte-1-G10](https://github.com/aqwsxzzz/TeanotoExpo))
 
-- 🌱 I’m currently learning **Express, mongoose, multer, cloudinary and others**
+- 🌱 I’m currently learning **React Native, NestJS & Postgres**
 
 - 📫 How to reach me **jbarretolarrosa@gmail.com**
 
